@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/com/example/android/musicplayer/MainActivity.java=UTF-8
+encoding//src/com/example/android/musicplayer/MusicService.java=UTF-8
+encoding//src/com/example/android/musicplayer/Retriever/MusicRetriever.java=UTF-8
+encoding//src/com/example/android/musicplayer/audiofucushelper/AudioFocusHelper.java=UTF-8
+encoding//src/com/example/android/musicplayer/audiofucushelper/MusicFocusable.java=UTF-8
+encoding//src/com/example/android/musicplayer/remotecontrol/MediaButtonHelper.java=UTF-8
+encoding//src/com/example/android/musicplayer/remotecontrol/MusicIntentReceiver.java=UTF-8
+encoding//src/com/example/android/musicplayer/remotecontrol/RemoteControlClientCompat.java=UTF-8
+encoding//src/com/example/android/musicplayer/remotecontrol/RemoteControlHelper.java=UTF-8
